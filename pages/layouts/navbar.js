@@ -6,7 +6,7 @@ export default function Navbar(){
             <nav className="navbar navbar-expand-md navbar-dark fixed-top bg-dark fixed-top border-0 shadow-sm">
                 <div className="container">
                     <Link href="/">
-                        <a className="navbar-brand">Next.Js</a>
+                        <a className="navbar-brand">Learning Code</a>
                     </Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-targer="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
